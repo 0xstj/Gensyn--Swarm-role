@@ -19,8 +19,9 @@ Before starting, make sure you have:
 - Basic terminal knowledge
 
 ---
+## Step 1: 🖥️Go to your Github Codespace - https://github.com/codespaces
 
-## Step 1: 🧠 Install Gswarm CLI with Go
+## Step 2: 🧠 Install Gswarm CLI with Go
 
 ```bash
 go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
