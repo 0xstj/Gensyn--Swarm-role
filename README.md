@@ -37,7 +37,7 @@ gswarm --version
 
 🤖 Step 2: Create Your Telegram Bot
 
-Open Telegram and search @BotFather
+Click on this Link - https://t.me/BotFather
 
 Run /newbot and follow the steps
 
