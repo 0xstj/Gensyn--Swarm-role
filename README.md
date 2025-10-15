@@ -1,2 +1,2 @@
 # Gensyn--Swarm-role
-Gensyn Swarm role guide
+How to get Swarm role in Gensyn discord server
