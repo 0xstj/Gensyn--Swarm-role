@@ -49,7 +49,7 @@ gswarm
 
 ● Your EOA Address (from Gensyn Dashboard)-https://dashboard.gensyn.ai/
 
-💠Note if have id then sign otherwise sign up first with your email & always use same email
+💠Note if you have id on gensyn then sign in otherwise sign up first with your email & always use same email
 
 ● After setup, GSwarm will start monitoring and sending live node updates to your Telegram chat.
 
