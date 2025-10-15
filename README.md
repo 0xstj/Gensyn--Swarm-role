@@ -52,10 +52,10 @@ Copy your Bot Token (keep it safe — don’t share!)
 
 💬 Step 3: Get Your Telegram Chat ID
 
-● Message your bot once like - hi or hello , then copy this link below:
+● Message your bot once like - hi or hello , then copy this link below & open in new tab in your chrome brownser.
 
 ```bash
-https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
+https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates
 
 ```
 ● <YOUR_BOT_TOKEN> 👈cut this your bot token and paste you own that you saved earlier
