@@ -34,36 +34,7 @@ go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
 gswarm --version
 
 ```
-
-🤖 Step 2: Create Your Telegram Bot
-
-Click on this Link - https://t.me/BotFather
-
-Run /newbot and follow the steps
-
-Copy your Bot Token (keep it safe — don’t share!)
-
-🧾 Example Bot Token format:
-
-```bash
-8314754474 : AAHj3HQqKyA9BBj8oaSfwLmDwWsAmQNklZo
-
-```
-
-💬 Step 3: Get Your Telegram Chat ID
-
-● Message your bot once like - hi or hello , then copy this link below & open in new tab in your chrome brownser.
-
-```bash
-https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates
-
-```
-● <YOUR_BOT_TOKEN> 👈cut this your bot token and paste you own that you saved earlier
-
-● Wen open above link after putting your own bot token than you see like this - {"id":123456789}
-this id is your chat id copy and save it somewhere
-
-🛠️ Step 4: Configure GSwarm Node
+🛠️ Step 3: Configure GSwarm Node
 Run this command in your codespace and follow steps:
 
 ```bash
@@ -82,7 +53,36 @@ gswarm
 
 ● After setup, GSwarm will start monitoring and sending live node updates to your Telegram chat.
 
-📡 Step 5: Link Telegram with Discord
+
+🤖 Step 4: Create Your Telegram Bot
+
+Click on this Link - https://t.me/BotFather
+
+Run /newbot and follow the steps
+
+Copy your Bot Token (keep it safe — don’t share!)
+
+🧾 Example Bot Token format:
+
+```bash
+8314754474 : AAHj3HQqKyA9BBj8oaSfwLmDwWsAmQNklZo
+
+```
+
+💬 Step 5: Get Your Telegram Chat ID
+
+● Message your bot once like - hi or hello , then copy this link below & open in new tab in your chrome brownser.
+
+```bash
+https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates
+
+```
+● <YOUR_BOT_TOKEN> 👈cut this your bot token and paste you own that you saved earlier
+
+● Wen open above link after putting your own bot token than you see like this - {"id":123456789}
+this id is your chat id copy and save it somewhere
+
+📡 Step 6: Link Telegram with Discord
 
 Join the Official Discord Server - https://discord.gg/gensyn
 
