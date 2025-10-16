@@ -1,5 +1,4 @@
 # How to claim "Swarm role" in <img width="30" height="-30" alt="image" src="https://github.com/user-attachments/assets/682a583a-63a3-4ddf-a840-aab7e94441e0"/> Gensyn discord server‼️- Github guide
-👉We are going to claim this role without VPS with help of github codespace🤔
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
