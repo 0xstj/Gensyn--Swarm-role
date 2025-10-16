@@ -16,44 +16,10 @@ Before starting, make sure you have:
 - A working **Telegram** and **Discord** account
 - Access to [Gensyn Dashboard](https://dashboard.gensyn.ai)
 - Basic terminal knowledge
-
+  
 ---
-## Step 1: 🖥️Go to your Github Codespace - https://github.com/codespaces
 
-## Step 2: 🧠 Install Gswarm CLI with Go
-
-```bash
-go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
-
-```
-
-✅ Check version:
-
-```bash
-gswarm --version
-
-```
-🛠️ Step 3: Configure GSwarm Node
-Run this command in your codespace and follow steps:
-
-```bash
-gswarm
-
-```
-👉It will ask for:
-
-● Bot Token -
-
-● Chat ID -
-
-● Your EOA Address (from Gensyn Dashboard) - https://dashboard.gensyn.ai/
-
-💠Note if you have id on gensyn then sign in otherwise sign up first with your email & always use same email
-
-● After setup, GSwarm will start monitoring and sending live node updates to your Telegram chat.
-
-
-🤖 Step 4: Create Your Telegram Bot
+## 🤖 Step 1: Create Your Telegram Bot
 
 Click on this Link - https://t.me/BotFather
 
@@ -68,7 +34,7 @@ Copy your Bot Token (keep it safe — don’t share!)
 
 ```
 
-💬 Step 5: Get Your Telegram Chat ID
+## 💬 Step 2: Get Your Telegram Chat ID
 
 ● Message your bot once like - hi or hello , then copy this link below & open in new tab in your chrome brownser.
 
@@ -81,7 +47,46 @@ https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates
 ● Wen open above link after putting your own bot token than you see like this - {"id":123456789}
 this id is your chat id copy and save it somewhere
 
-📡 Step 6: Link Telegram with Discord
+## step 3: Go to Gensyn Dashboard & sign or sign up - https://dashboard.gensyn.ai/
+
+Find your Eoa address(front of your nodes) & save it in note pad.
+
+## Step 4: 🖥️Go to your Github Codespace - https://github.com/codespaces
+
+## Step 5: 🧠 Install Gswarm CLI with Go
+
+```bash
+go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
+
+```
+
+✅ Check version:
+
+```bash
+gswarm --version
+
+```
+## 🛠️ Step 6: Configure GSwarm Node
+Run this command in your codespace and follow steps:
+
+```bash
+gswarm
+
+```
+
+👉It will ask for:
+
+● Bot Token -
+
+● Chat ID -
+
+● Your EOA Address (from Gensyn Dashboard) - https://dashboard.gensyn.ai/
+
+💠Note if you have id on gensyn then sign in otherwise sign up first with your email & always use same email
+
+● After setup, GSwarm will start monitoring and sending live node updates to your Telegram chat.
+
+## 📡 Step 7: Link Telegram with Discord
 
 Join the Official Discord Server - https://discord.gg/gensyn
 
