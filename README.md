@@ -4,7 +4,7 @@
 
 ## Gensyn Documentation <img width="30" height="-30" alt="image" src="https://github.com/user-attachments/assets/682a583a-63a3-4ddf-a840-aab7e94441e0"/> - https://github.com/Deep-Commit/gswarm
 
-A step-by-step guide to set up your <b>GSwarm Node</b>, receive live Telegram updates, and verify your account to claim your <b>Swarm Role</b> on Discord.
+👉 A step-by-step guide to set up your <b>GSwarm Node</b>, receive live Telegram updates, and verify your account to claim your <b>Swarm Role</b> on Discord.
 </p>
 
 ---
