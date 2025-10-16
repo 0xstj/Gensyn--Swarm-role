@@ -42,11 +42,11 @@ gswarm
 ```
 👉It will ask for:
 
-● Bot Token-
+● Bot Token -
 
-● Chat ID-
+● Chat ID -
 
-● Your EOA Address (from Gensyn Dashboard)-https://dashboard.gensyn.ai/
+● Your EOA Address (from Gensyn Dashboard) - https://dashboard.gensyn.ai/
 
 💠Note if you have id on gensyn then sign in otherwise sign up first with your email & always use same email
 
